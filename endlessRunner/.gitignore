@@ -1,0 +1,18 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]in/
+obj/
+logs/
+
+# User-specific files
+UserSettings/
+
+# IDE-specific files
+.vs/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
